@@ -8,13 +8,14 @@ Este site foi criado com o objetivo de praticar os fundamentos do HTML e a estru
 
 ## Conceitos praticados
 
-- Estrutura básica do HTML5
-- Elementos semânticos (`header`, `main` e `footer`)
-- Hierarquia de títulos (`h1` e `h2`)
-- Parágrafos e organização de conteúdo
-- Listas ordenadas e não ordenadas
-- Inserção de imagens
-- Criação de links de navegação
+• header → cabeçalho da página;
+• main → conteúdo principal;
+• footer → rodapé da página;
+• títulos (h1 e h2);
+• parágrafos (p);
+• listas (ul e li);
+• imagens (img);
+• links (a);
 
 ## Tecnologias utilizadas
 
