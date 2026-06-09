@@ -8,7 +8,7 @@ Este site foi criado com o objetivo de praticar os fundamentos do HTML e a estru
 
 ## Conceitos praticados
 
-• header → cabeçalho da página;
+- • header → cabeçalho da página;
 • main → conteúdo principal;
 • footer → rodapé da página;
 • títulos (h1 e h2);
